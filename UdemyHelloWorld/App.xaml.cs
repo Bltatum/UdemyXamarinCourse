@@ -10,7 +10,7 @@ namespace UdemyHelloWorld
         {
             InitializeComponent();
 
-            MainPage = new CalculatorPage();
+            MainPage = new GridLoginExecise();
         }
 
         protected override void OnStart()
