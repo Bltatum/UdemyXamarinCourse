@@ -10,7 +10,7 @@ namespace UdemyHelloWorld
         {
             InitializeComponent();
 
-            MainPage = new QuotesPage();
+            MainPage = new WelcomePage();
         }
 
         protected override void OnStart()
