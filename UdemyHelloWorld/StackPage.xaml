@@ -2,7 +2,7 @@
 <ContentPage Padding="0,50,0,0"
              xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="UdemyHelloWorld.StackPage">
-    <!--<StackLayout
+    <StackLayout
         Orientation="Horizontal"
         Padding="40"
         Spacing="20"
@@ -20,7 +20,7 @@
              <Image Source="http://placehold.it/100x100"/> 
              <Label Text="Label 3"/>
         </StackLayout>
-    </StackLayout>-->
+    </StackLayout>
 
 
 </ContentPage>
