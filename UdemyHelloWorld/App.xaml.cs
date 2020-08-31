@@ -10,7 +10,7 @@ namespace UdemyHelloWorld
         {
             InitializeComponent();
 
-            MainPage = new InstagramPage();
+            MainPage = new CalculatorPage();
         }
 
         protected override void OnStart()
