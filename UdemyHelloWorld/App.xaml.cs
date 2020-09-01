@@ -10,7 +10,7 @@ namespace UdemyHelloWorld
         {
             InitializeComponent();
 
-            MainPage = new AbsoluteLayoutExercise();
+            MainPage = new AbsoluteLayoutExercise2();
         }
 
         protected override void OnStart()
