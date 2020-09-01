@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage BackgroundColor="Black" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:UdemyHelloWorld.MarkupExtensions"
+             x:Class="UdemyHelloWorld.ImagePage">
+    <AbsoluteLayout>
+        <!--spinner while file is downloading..-->
+        <!--<ActivityIndicator IsRunning="{Binding Source={x:Reference image}, Path=IsLoading}" Color="White"
+                           AbsoluteLayout.LayoutBounds="0.5, 0.5, 100, 100" AbsoluteLayout.LayoutFlags="PositionProportional"/>-->
+    <Image Source="{local:EmbeddedImage UdemyHelloWorld.Images.backgroundimage.jpeg}" x:Name="image" Aspect="AspectFill"
+           AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All"/>
+    </AbsoluteLayout>
+</ContentPage>
