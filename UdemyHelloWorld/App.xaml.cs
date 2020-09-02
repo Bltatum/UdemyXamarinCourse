@@ -10,7 +10,7 @@ namespace UdemyHelloWorld
         {
             InitializeComponent();
 
-            MainPage = new CircleImage();
+            MainPage = new ImagesExercise();
         }
 
         protected override void OnStart()
