@@ -68,6 +68,12 @@
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Properties\AndroidManifest.xml" />
+    <None Include="Resources\drawable\drawable-xhdpi\right" />
+    <None Include="Resources\drawable\drawable-xhdpi\left" />
+    <None Include="Resources\drawable\drawable-xxhdpi\right" />
+    <None Include="Resources\drawable\drawable-xxhdpi\left" />
+    <None Include="Resources\drawable\drawable-hdpi\right" />
+    <None Include="Resources\drawable\drawable-hdpi\left" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Tabbar.xml" />

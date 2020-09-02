@@ -29,4 +29,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Images\backgroundimage.jpeg" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Update="ImagesExercise.xaml.cs">
+      <DependentUpon>ImagesExercise.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
 </Project>
