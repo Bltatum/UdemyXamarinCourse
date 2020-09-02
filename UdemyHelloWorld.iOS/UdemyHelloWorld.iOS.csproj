@@ -113,6 +113,12 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\AppIcon-2.appiconset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-2.appiconset\iOS\clock%403x.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-2.appiconset\iOS\clock%402x.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-2.appiconset\iOS\clock.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-2.appiconset\clock.png" />
+    <ImageAsset Include="Assets.xcassets\AppIcon-2.appiconset\clock%402x.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
