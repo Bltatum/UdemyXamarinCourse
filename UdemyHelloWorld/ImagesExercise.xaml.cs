@@ -21,7 +21,7 @@ namespace UdemyHelloWorld
         {
             image.Source = new UriImageSource
             {
-                Uri = new Uri(String.Format("https://lorempixel.com/1920/1080/city/{0}", _currentImage)),
+                Uri = new Uri(String.Format("http://lorempixel.com/1920/1080/city/{0}", _currentImage)),
                 CachingEnabled = false
             };
         }

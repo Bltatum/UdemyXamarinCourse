@@ -74,6 +74,9 @@
     <None Include="Resources\drawable\drawable-xxhdpi\left" />
     <None Include="Resources\drawable\drawable-hdpi\right" />
     <None Include="Resources\drawable\drawable-hdpi\left" />
+    <None Include="Resources\drawable\drawable\clock.png" />
+    <None Include="Resources\drawable\drawable\left" />
+    <None Include="Resources\drawable\drawable\right" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Tabbar.xml" />
@@ -99,6 +102,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />
+    <Folder Include="Resources\drawable\drawable\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\UdemyHelloWorld\UdemyHelloWorld.csproj">
