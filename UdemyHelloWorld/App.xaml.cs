@@ -10,7 +10,7 @@ namespace UdemyHelloWorld
         {
             InitializeComponent();
 
-            MainPage = new ListPage();
+            MainPage = new ListPageExercise();
         }
 
         protected override void OnStart()
